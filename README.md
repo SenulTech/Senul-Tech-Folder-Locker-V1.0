@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/senultech/folder-locker">
-    <img src="images/logo.png" alt="Logo" width="120" height="120" style="border-radius:50%">
+    <img src="https://github.com/SenulTech/Senul-Tech/blob/main/logo.JPG" alt="Logo" width="200" height="200" style="border-radius:50%">
   </a>
 
   <h3 align="center">Senul Tech Folder Locker V-1.0</h3>
@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Screenshot][product-screenshot]](https://github.com/senultech/folder-locker)
+<img src="https://github.com/SenulTech/Senul-Tech/blob/main/logo.JPG" alt="Logo" width="200" height="200" style="border-radius:50%">
 
 **Senul Tech Folder Locker V-1.0** is a lightweight and secure application built in **Python** to lock and unlock your private folders.  
 
@@ -87,6 +87,8 @@ With just one password, you can easily protect sensitive files on your Windows P
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Downloads 
+  [ [  [Download Link=] (https://www.mediafire.com/file/gwvsprnswv8f8nd/myfinalsetup.exe/file)](https://www.mediafire.com/file/gwvsprnswv8f8nd/myfinalsetup.exe/file)
 
 
 <!-- GETTING STARTED -->
