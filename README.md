@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://github.com/SenulTech/Senul-Tech/blob/main/logo.JPG" alt="Logo" width="200" height="200" style="border-radius:50%">
+<img src="https://github.com/SenulTech/Senul-Tech-Folder-Locker-V1.0/blob/main/ChatGPT%20Image%20Sep%2016%2C%202025%2C%2010_19_12%20PM.png" alt="Logo" width="700" height="700" style="border-radius:50%">
 
 **Senul Tech Folder Locker V-1.0** is a lightweight and secure application built in **Python** to lock and unlock your private folders.  
 
@@ -88,9 +88,18 @@ With just one password, you can easily protect sensitive files on your Windows P
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+
+
+
 <!-- DOWNLOADS -->
 ### Downloads 
   [ [  [Download Link=] (https://www.mediafire.com/file/gwvsprnswv8f8nd/myfinalsetup.exe/file)](https://www.mediafire.com/file/gwvsprnswv8f8nd/myfinalsetup.exe/file) 
+
+
+
+
 
 <!-- Reporting -->
  ## Report Bugs & Errors <B>(Senul Ninduwara - Owner of Senul Tech)</B>
