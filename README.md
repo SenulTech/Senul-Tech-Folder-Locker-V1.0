@@ -84,12 +84,21 @@ With just one password, you can easily protect sensitive files on your Windows P
 * [![Python][Python.org]][Python-url]
 * [![Tkinter][Tkinter-badge]][Tkinter-url]
 * [![Windows][Windows-badge]][Windows-url]
+* Chat-Gpt
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- DOWNLOADS -->
 ### Downloads 
-  [ [  [Download Link=] (https://www.mediafire.com/file/gwvsprnswv8f8nd/myfinalsetup.exe/file)](https://www.mediafire.com/file/gwvsprnswv8f8nd/myfinalsetup.exe/file)
+  [ [  [Download Link=] (https://www.mediafire.com/file/gwvsprnswv8f8nd/myfinalsetup.exe/file)](https://www.mediafire.com/file/gwvsprnswv8f8nd/myfinalsetup.exe/file) 
 
+<!-- Reporting -->
+ ## Report Bugs & Errors <B>(Senul Ninduwara - Owner of Senul Tech)</B>
+  * Senul-0781971155 (Whatsapp Only)
+  * Senuldrock1@gmail.com
+    
+                  
+  
 
 <!-- GETTING STARTED -->
 ## Getting Started
